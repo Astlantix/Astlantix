@@ -1,45 +1,28 @@
-# 👋 Welcome to A Product
+---
+layout: editorial
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# 💀 I am goofy
 
-## Overview
+> The most interesting people are sometimes kind of stupid. - VY
 
-Here are a couple of example overviews from products with really great docs:
+## What I do
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+Programming
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+Piano
 
-## Quick links
+Tabla
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
+Other music (composing and arrangements)
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+VEX Robotics
 
-## Get Started
+C++, C, C#, Java, JS/HTML/CSS/SCSS/MD, Python 2.7 (dont ask), GO, Assembly
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+kung fu
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
+i play games
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
+<figure><img src=".gitbook/assets/asdf (1).png" alt=""><figcaption><p>i am insane</p></figcaption></figure>
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
