@@ -16,9 +16,8 @@ Tabla
 
 Other music (composing and arrangements)
 
-VEX Robotics
 
-C++, C, C#, Java, JS/HTML/CSS/SCSS/MD, Python 2.7 (dont ask), GO, Assembly
+C++, C, C#, Java, JS, HTML, CSS, SCSS, Python 2.7 (dont ask), Python,  GO, Assembly
 
 kung fu
 
